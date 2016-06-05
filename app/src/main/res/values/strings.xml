@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lego Firebase</string>
+
+    <string name="title">Android &amp; Firebase Lego Codelab</string>
+
+    <string name="vibrator">Vibration Motor</string>
+    <string name="mini_fan">Mini Fan</string>
+    <string name="red_light">Red Light</string>
+    <string name="button">Push Button</string>
+    <string name="button_on">ON!</string>
+    <string name="button_off">OFF</string>
+    <string name="light_sensor">Ligth sensor</string>
+    <string name="zero">0</string>
+
+    <!-- About fragment -->
+    <string name="title_about">Thanks to:</string>
+
+    <string name="accept">Done!</string>
+    <string name="about">About</string>
+    <string name="dev_name">Andrés Vasquez A.</string>
+    <string name="dev_email">andres.vasquez.agramont@gmail.com</string>
+    <string name="dev_organization">GDG La Paz, Bolivia</string>
+
+
+</resources>
