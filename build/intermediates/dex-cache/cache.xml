@@ -1,2 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/andresvasquez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d51ddd19a1aec9bdc3e4bec02c3e9f25c0eddcce.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_e1aa74d44777e15ea2db64da65d2c251c87af1ec.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2e5238bd4870b1150f900feb6d20cf2052f1dae2">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_a2fe6509ed7624dfdddc6624040e8216ee08bb50.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_c89591ad2dee65ac32804a5a7643d95b64c159e5.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_c4be08eaca9da766ce3a790baaca18a97c440d81.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_4963c409a10971d5a51b91a596fbc5ff2ead90e1.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_344661393fe724da151292d9df811a475efe680e.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_fb04c5de444896119f95ff0259572070eb0067c6.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha1_9e5d0d59d4c94858295df0b9f34bea8b485aad1e.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_04c8939c7af2c24ce6530b86203250a1bb5e5830.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/Library/Android/sdk/extras/android/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha1/constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha1_4676866cb1901fc2628df94b48c8dc80ae90adf5.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a4bb973309073e3c4ea0af74bd0100a6e36b717e.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_6c2b04f3402f1bce6f70e8574cda62979a4fb788.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_dbc031ff549bfff92776fe961fac3e1c700aadd2.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_67ab6c2894459e04075d22da711729fe538c1c27.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c330fd738ffc568943f3f6925ea10458a5fc14a4.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_9b7b1e1bc8bf64dae4bbd6dbd3eab006186826d2.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd20e75c1574f79ca12978fbcd4a0c58bfac52d1">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/instant-run_c86a83b027f1d8d39d7e88ff1e3bc4401b9e17e3.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/codelab/LegoTbbTIoT/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_cb83bdff9fd5f08abf5407a940976d6308e52a6f.jar" />
+    </item>
+
+</items>

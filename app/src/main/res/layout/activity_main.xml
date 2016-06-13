@@ -87,7 +87,8 @@
             <ImageView
                 android:id="@+id/imgHeader"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
                 android:src="@drawable/legotbbt"
                 app:layout_collapseMode="parallax"/>
 
