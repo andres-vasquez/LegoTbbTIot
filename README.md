@@ -4,8 +4,8 @@ Android App for Firebase + Lego Codelab
 Based on Firebase + Android Codelab at **@GDG Global Summit 2016, San Francisco.** <br/><br/>
 **LegoTbbTIot** (Lego The Big Bang Theory + IOT) is a sample that shows basic usage of FirebaseArduino to push sensor data to Firebase, and trigger actuators from Firebase through Android App.
 
-![Main](https://raw.githubusercontent.com/andres-vasquez/LegoTbbTIot/master/screenshots/main.png =350x)
-![Main scrolled](https://raw.githubusercontent.com/andres-vasquez/LegoTbbTIot/master/screenshots/main_1.png =350x)
+![Main](https://raw.githubusercontent.com/andres-vasquez/LegoTbbTIot/master/screenshots/main.png "Main")
+![Main scrolled](https://raw.githubusercontent.com/andres-vasquez/LegoTbbTIot/master/screenshots/main_1.png "Main Scrolled")
 
 # Initial Setup
 Please follow the CodeLab instructions: <br/>
